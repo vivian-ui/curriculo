@@ -115,6 +115,18 @@ aside {
   text-decoration: none;
 }
 
+.impressao-button {
+  background: #00bebc;
+  border-radius: 8px;
+  color: white;
+  display: block;
+  margin: 36px 0;
+  padding: 12px 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  border: none;
+}
+
 section {
   background: #fff;
   padding: 50px 32px 0;
